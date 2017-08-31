@@ -1,0 +1,71 @@
+{
+  "second/dianjia.html": {
+    "href": "second/dianjia.html",
+    "resources": [
+      "img/other.jpg",
+      "js/mui.min.js",
+      "css/mui.min.css"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "pages.html": {
+    "href": "pages.html",
+    "resources": [
+      "css/common.css",
+      "img/5.jpg",
+      "js/mui.min.js",
+      "css/mui.min.css"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "second/fenleihuizong.html": {
+    "href": "second/fenleihuizong.html",
+    "resources": [
+      "css/common.css"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "second/zhaoxin.html": {
+    "href": "second/zhaoxin.html",
+    "resources": [
+      "css/common.css"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/college.js",
+      "js/shetuanList.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/index.css",
+      "js/myjs.js",
+      "img/campmap.png",
+      "img/streetMap.png",
+      "img/4.jpg",
+      "img/1.jpg",
+      "img/2.jpg",
+      "img/3.jpg",
+      "img/5.jpg",
+      "img/6.jpg",
+      "img/7.jpg",
+      "img/8.jpg",
+      "img/Tea.png",
+      "img/Food.png",
+      "img/Flower.png",
+      "img/KFC.png"
+    ],
+    "refer": [
+      "second/dianjia.html",
+      "pages.html",
+      "second/fenleihuizong.html",
+      "second/zhaoxin.html"
+    ],
+    "priority": 0
+  }
+}

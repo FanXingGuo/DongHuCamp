@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+}
+h3{
+	margin-top: 2rem;
+	text-align: center;
+	font-family: "微软雅黑";
+}
+img{
+	width: 100%;
+}
+p,li{
+	text-indent: 2rem;
+	font-family: "微软雅黑";
+}
+.page{
+	width: 90%;
+	margin: 0 auto;
+}
+.show{
+	width: 90%;
+	margin: 0 auto;
+}
+.flhz{
+	width: 90%;
+	margin: 0 auto;
+	
+}
+.zx{
+	width: 90%;
+	margin: 0 auto;
+}
